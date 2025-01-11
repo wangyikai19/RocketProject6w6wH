@@ -1,0 +1,8 @@
+.vs/                      
+packages/                  
+Project6w6wH/bin/       
+Project6w6wH/Content/   
+Project6w6wH/obj/       
+Project6w6wH/Scripts/
+*.user
+*.config
